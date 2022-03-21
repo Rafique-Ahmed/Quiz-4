@@ -1,9 +1,10 @@
-com.unity.collab-proxy@1.15.4
+com.unity.collab-proxy@1.15.15
 com.unity.connect.share@4.2.3
 com.unity.ide.rider@2.0.7
 com.unity.ide.visualstudio@2.0.12
 com.unity.ide.vscode@1.2.4
-com.unity.test-framework@1.1.29
+com.unity.render-pipelines.universal@10.7.0
+com.unity.test-framework@1.1.31
 com.unity.textmeshpro@3.0.6
 com.unity.timeline@1.4.8
 com.unity.ugui@1.0.0
@@ -38,4 +39,4 @@ com.unity.modules.video@1.0.0
 com.unity.modules.vr@1.0.0
 com.unity.modules.wind@1.0.0
 com.unity.modules.xr@1.0.0
-com.unity.template.3d@5.0.4
+Quiz 4@0.1
